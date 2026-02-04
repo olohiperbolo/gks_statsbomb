@@ -1,0 +1,14 @@
+# --- databases / generated artifacts ---
+*.sqlite
+*.db
+
+# --- python ---
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+.ipynb_checkpoints/
+
+# --- local outputs ---
+output/
